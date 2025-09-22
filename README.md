@@ -26,11 +26,4 @@ Su objetivo es mostrar cómo crear familias de objetos relacionados sin acoplar 
   Implementaciones de cada producto (ejemplo: `Espada`, `Arco`, `Caballo`, `Dragón`, `ArmaduraLigera`, `ArmaduraPesada`).
 
 - **Cliente**  
-  Clase principal que utiliza la fábrica para crear y mostrar personajes.
-
----
-
-## 🚀 Ejecución
-
-1. Abre el proyecto en **NetBeans**.
-2. Asegúrate de tener configurado el `main.class` en:
+  Clase principal que utiliza la fábrica para crear y mostrar personajes
