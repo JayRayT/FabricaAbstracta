@@ -27,3 +27,12 @@ Su objetivo es mostrar cómo crear familias de objetos relacionados sin acoplar 
 
 - **Cliente**  
   Clase principal que utiliza la fábrica para crear y mostrar personajes
+Ejecución
+-Abre el proyecto en Neatbeans
+-Ejecuta la "main.class" en "main"
+#Ejemplo de ejecución
+-Se creo Guerrero con:
+--Cuerpo fuerte
+--Espada Afilada
+--Caballo de batalla
+--Armadura Pesada
